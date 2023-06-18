@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center">
-  👨‍💻  Hello, i am Ben Salah Mayssa,Computer Engineering Student, Web Developer, Learner 👨‍💻 from Tunisia TN.
+  👨‍💻  Hello, i am Ben Salah Mayssa,Software engineering Student 👨‍💻 from Tunisia.
    <br>
   💻 I need to to learn new technologies and frameworks.
   <br>
